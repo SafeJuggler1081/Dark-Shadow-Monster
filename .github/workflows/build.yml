@@ -1,4 +1,4 @@
-name: Build JAR
+ame: Build JAR
 on:
   workflow_dispatch:
   push:
